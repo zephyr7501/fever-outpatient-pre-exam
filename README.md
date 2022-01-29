@@ -8,6 +8,6 @@ PDFのほか、Microsoft Word(.docx)のフォーマットを用意してあり�
 **発熱外来の診察を行う医療機関**および各自治体の**医師会、保健所**を対象としています。  
 
 ## ダウンロード
-<a href="https://raw.githubusercontent.com/github-username/project/master/filename">発熱外来 予診票テンプレート(Word)</a>  
+<a href="https://github.com/zephyr7501/fever-outpatient-pre-exam/raw/main/%E7%99%BA%E7%86%B1%E5%A4%96%E6%9D%A5_%E4%BA%88%E8%A8%BA%E7%A5%A8%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.docx" download>発熱外来 予診票テンプレート(Word)</a>  
 
-<a href="https://raw.githubusercontent.com/github-username/project/master/filename">発熱外来 予診票テンプレート(PDF)</a>
+<a href="https://github.com/zephyr7501/fever-outpatient-pre-exam/raw/main/%E7%99%BA%E7%86%B1%E5%A4%96%E6%9D%A5_%E4%BA%88%E8%A8%BA%E7%A5%A8%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.pdf" download>発熱外来 予診票テンプレート(PDF)</a>
